@@ -6,7 +6,7 @@
 - [Тест-кейсы](https://github.com/Innacc777/Test-cases)
 - [Баг-репорты](https://github.com/Innacc777/bug-reports)
 - [Чек-листы](https://github.com/Innacc777/checklist)
-- [Работа Postman, в Jira](https://github.com/Innacc777/postman-jira)
+- [Работа в Postman, в Jira](https://github.com/Innacc777/postman-jira)
 - [Работа с версткой](https://github.com/Innacc777/htmlcoding)
 - [Определение видов тестирования, техник тест-дизайна](https://github.com/Innacc777/theory)
 - [Тестирование требований](https://github.com/Innacc777/requirements)
