@@ -7,3 +7,4 @@
 - [Баг-репорты](https://github.com/Innacc777/bug-reports)
 - [Работа с версткой](https://github.com/Innacc777/htmlcoding)
 - [Определение видов тестирования, техник тест-дизайна](https://github.com/Innacc777/theory)
+- [Тестирование требований](https://github.com/Innacc777/requirements)
