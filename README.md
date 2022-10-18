@@ -2,7 +2,9 @@
 
 ### Добро пожаловать! Я начинающий тестировщик и здесь вы узнаете немного о том, что я знаю и умею :)
 
-### [Link to my CV](https://docs.google.com/document/d/13eXDyRShOG2P4zoldOMC4-XvLJAV7bmZEC1zZ-o6eO4/edit#)
+### Мое резюме
+
+[Link to my CV](https://docs.google.com/document/d/13eXDyRShOG2P4zoldOMC4-XvLJAV7bmZEC1zZ-o6eO4/edit#)
 
 ### Тестовая документация
 - [Тест-кейсы](https://github.com/Innacc777/Test-cases)
