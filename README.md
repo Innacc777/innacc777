@@ -6,3 +6,4 @@
 - [Тест-кейсы](https://github.com/Innacc777/Test-cases)
 - [Баг-репорты](https://github.com/Innacc777/bug-reports)
 - [Работа с версткой](https://github.com/Innacc777/htmlcoding)
+- [Теория. Определение видов тестирования, техник тест-дизайна](https://github.com/Innacc777/theory)
